@@ -2,12 +2,12 @@
 
 namespace nguyenanhung\Platforms\WebBuilderSDK\InitializeCoreServices\Base;
 
-use nguyenanhung\Platforms\WebBuilderSDK\InitializeCoreServices\Template\Template;
 use nguyenanhung\MyDebug\Benchmark;
 use nguyenanhung\MyDebug\Logger;
 use nguyenanhung\MyCache\Cache;
 use nguyenanhung\MyRequests\MyRequests;
 use nguyenanhung\Platforms\WebBuilderSDK\InitializeCoreServices\Helper\Helper;
+use nguyenanhung\Platforms\WebBuilderSDK\InitializeCoreServices\Template\Template;
 
 /**
  * Class BaseCore
@@ -20,7 +20,7 @@ use nguyenanhung\Platforms\WebBuilderSDK\InitializeCoreServices\Helper\Helper;
  */
 class BaseCore
 {
-    const VERSION = '1.0.0';
+    const VERSION = '1.0.1';
     const KEY_DATABASE = 'DATABASE';
     const KEY_OPTIONS = 'OPTIONS';
     const KEY_AUTH = 'AUTH';

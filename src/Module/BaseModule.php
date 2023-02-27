@@ -11,6 +11,8 @@ use nguyenanhung\Platforms\WebBuilderSDK\InitializeCoreServices\Database\Databas
  * @package   nguyenanhung\Platforms\WebBuilderSDK\InitializeCoreServices\Module
  * @author    713uk13m <dev@nguyenanhung.com>
  * @copyright 713uk13m <dev@nguyenanhung.com>
+ *
+ * @property \nguyenanhung\Platforms\WebBuilderSDK\InitializeCoreServices\Database\Database $db
  */
 class BaseModule extends BaseCore
 {
