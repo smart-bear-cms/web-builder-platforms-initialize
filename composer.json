@@ -1,0 +1,40 @@
+{
+    "type": "library",
+    "name": "web-builder-sdk/platforms-init",
+    "description": "Core Platform: Web Builder Platforms - Initialize Platform by Hung Nguyen",
+    "keywords": [
+        "web builder sdk",
+        "web builder platforms",
+        "helper",
+        "library",
+        "php"
+    ],
+    "homepage": "https://github.com/smart-bear-cms/web-builder-platforms-initialize",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Nguyen An Hung",
+            "email": "dev@nguyenanhung.com",
+            "homepage": "https://nguyenanhung.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^5.6 || ^7.0 || ^8.0",
+        "ext-pdo": "*",
+        "ext-curl": "*",
+        "ext-json": "*",
+        "ext-mbstring": "*"
+    },
+    "require-dev": {
+        "web-builder-sdk/framework": "^1.0",
+        "tramtro/make-some-noise": "^1.0",
+        "symfony/polyfill": "^1.26"
+    },
+    "autoload": {
+        "psr-4": {
+            "nguyenanhung\\Platforms\\WebBuilderSDK\\InitializeCoreServices\\": "src/"
+        }
+    }
+}
