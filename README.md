@@ -1,4 +1,9 @@
-[![Latest Stable Version](http://poser.pugx.org/web-builder-sdk/platforms-init/v)](https://packagist.org/packages/web-builder-sdk/platforms-init) [![Total Downloads](http://poser.pugx.org/web-builder-sdk/platforms-init/downloads)](https://packagist.org/packages/web-builder-sdk/platforms-init) [![Latest Unstable Version](http://poser.pugx.org/web-builder-sdk/platforms-init/v/unstable)](https://packagist.org/packages/web-builder-sdk/platforms-init) [![License](http://poser.pugx.org/web-builder-sdk/platforms-init/license)](https://packagist.org/packages/web-builder-sdk/platforms-init) [![PHP Version Require](http://poser.pugx.org/web-builder-sdk/platforms-init/require/php)](https://packagist.org/packages/web-builder-sdk/platforms-init)
+[![Latest Stable Version](https://img.shields.io/packagist/v/web-builder-sdk/platforms-init.svg?style=flat-square)](https://packagist.org/packages/web-builder-sdk/platforms-init)
+[![Total Downloads](https://img.shields.io/packagist/dt/web-builder-sdk/platforms-init.svg?style=flat-square)](https://packagist.org/packages/web-builder-sdk/platforms-init)
+[![Daily Downloads](https://img.shields.io/packagist/dd/web-builder-sdk/platforms-init.svg?style=flat-square)](https://packagist.org/packages/web-builder-sdk/platforms-init)
+[![Monthly Downloads](https://img.shields.io/packagist/dm/web-builder-sdk/platforms-init.svg?style=flat-square)](https://packagist.org/packages/web-builder-sdk/platforms-init)
+[![License](https://img.shields.io/packagist/l/web-builder-sdk/platforms-init.svg?style=flat-square)](https://packagist.org/packages/web-builder-sdk/platforms-init)
+[![PHP Version Require](https://img.shields.io/packagist/dependency-v/web-builder-sdk/platforms-init/php)](https://packagist.org/packages/web-builder-sdk/platforms-init)
 
 # Web Builder Platform - Initialize Base Core
 
